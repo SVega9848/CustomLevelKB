@@ -1,0 +1,13 @@
+name: CustomKB-by-SVega
+main: CustomKB\Core\Main
+version: 0.1.0
+api: [3.2.0, 4.0.0]
+load: POSTWORLD
+author: SVega
+description: Customize your servers kb!
+
+permissions:
+  ckb.cmd:
+    description: CustomKB command permission
+    default: op
+
